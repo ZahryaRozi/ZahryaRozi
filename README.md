@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-<!--
-**ZahryaRozi/ZahryaRozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hawwo!! Welcome, user!! ⸜( ˶>ᴗ<˶)⸝♡</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">First of all, thank you for visiting my profile!! It really is an honor for me!! Here, I welcome you to my GitHub Repos!!<br><br>I'm just a curious 20yo from the internet!! I'm kinda shy and introverted but friendly. I'm usually on my room listening to music and navigating the web, exploring all I can.</p>
+
+###
+
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh1NDVoMGozbTliN2xjd2l2Y3BrMW5sNTFjbHdxYWVxcTF6ZGlmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5xhGgoeal2pS0I7KM/giphy.gif"  />
+
+###
