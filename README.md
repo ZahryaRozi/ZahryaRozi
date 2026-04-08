@@ -23,7 +23,11 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   </div>
-
+  <br/>
+  <br/>
+  <div align="center">
+    <img src="./blinkiesCafe-Jm.gif"/>
+  </div>
 </p>
 
 ###
