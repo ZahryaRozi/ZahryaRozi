@@ -26,7 +26,9 @@
   <br/>
   <br/>
   <div align="center">
-    <img src="./blinkiesCafe-Jm.gif"/>
+    <a href="https://zahryarozi.dev/">
+      <img src="./blinkiesCafe-Jm.gif"/>
+    </a>
   </div>
 </p>
 
